@@ -4,11 +4,11 @@
 *CODTECH IT SOLUTIONS PVT. LTD*
 
 ## Intern Details  
-*Name:* Pushpendra chouhan
-*Intern ID:* CT08DK430  
-*Domain:* Java Programming  
-*Batch Duration:* April 30th, 2025 – June 30th, 2025  
-*Mentor:* Neela Santhosh Kumar  
+**Name:** Pushpendra chouhan
+**Intern ID:** CT08DK430  
+**Domain:** Java Programming  
+**Batch Duration:** April 30th, 2025 – June 30th, 2025  
+**Mentor:** Neela Santhosh Kumar  
 
 ## Internship Task 3 – Multithreaded Chat Application
 
